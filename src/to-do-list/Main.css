@@ -1,0 +1,21 @@
+.mycontent{
+    width: 35%;
+    margin: auto;
+    margin-top:100px;
+    border: 1px solid black;
+    border-radius:7px;
+    -webkit-border-radius:7px;
+    -moz-border-radius:7px;
+    -ms-border-radius:7px;
+    -o-border-radius:7px;
+    padding: 15px;
+}
+.myhead{
+    height:50px;
+    display:flex;
+    justify-content:center;
+    align-items : center;
+}
+.isdone{
+    background: rgba(240, 33, 33, 0.514) !important;
+}
